@@ -17,6 +17,10 @@ If you're trying to recreate a part of this project and you're stuck somewhere o
 
 ![IMG_0901](https://github.com/user-attachments/assets/d29ec0d7-f52e-48b5-8ff3-5b85522e052f)
 
+To see how the robot looks in motion, click on the picture below, which will take you to the YouTube video, or click this link (https://www.youtube.com/watch?v=fuDRdF3EgcY)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fuDRdF3EgcY/0.jpg)](https://www.youtube.com/watch?v=fuDRdF3EgcY)
+
 ## Requirement List
 
 Before the development of this project, a requirement list was put together to guide the project in a single direction.
